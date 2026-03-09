@@ -156,7 +156,7 @@ defaultContentLanguage = "en"
   # Clinical Cases Section
   [[params.clinical_cases]]
     enabled = true
-    category = "اوبرتيف"
+    category = "operative"
     category_ar = "اوبرتيف"
     
     [[params.clinical_cases.cases]]
@@ -182,7 +182,7 @@ defaultContentLanguage = "en"
 
   [[params.clinical_cases]]
     enabled = true
-    category = "اندو"
+    category = "Endodontics"
     category_ar = "اندو"
     
     [[params.clinical_cases.cases]]
@@ -215,7 +215,7 @@ defaultContentLanguage = "en"
 
   [[params.clinical_cases]]
     enabled = true
-    category = "تشخيص"
+    category = "perio"
     category_ar = "تشخيص"
     
     [[params.clinical_cases.cases]]
@@ -234,7 +234,7 @@ defaultContentLanguage = "en"
 
   [[params.clinical_cases]]
     enabled = true
-    category = "بروسيزس"
+    category = "prosthesis"
     category_ar = "بروسيزس"
     
     [[params.clinical_cases.cases]]
@@ -246,7 +246,7 @@ defaultContentLanguage = "en"
 
   [[params.clinical_cases]]
     enabled = true
-    category = "كراون"
+    category = "crown"
     category_ar = "كراون"
     
     [[params.clinical_cases.cases]]
