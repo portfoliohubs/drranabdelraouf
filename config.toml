@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
     name = "Dr. Rana Abdelraouf"
     tagline = "Internship Doctor"
     graduation = "Graduated 2025 - Faculty of Dentistry"
-    profile_image = "https://github.com/user-attachments/assets/57b2f1b6-0cd5-455a-abe9-00ece42b83c3"
+    profile_image = "https://github.com/user-attachments/assets/a469da16-b65f-4990-9977-3d0826dc4a46"
     profile_image_alt = "Profile photo of Dr. Rana Abdelraouf"
     
     [params.hero.current_position]
@@ -166,10 +166,24 @@ defaultContentLanguage = "en"
       alt_ar = "صنعنا تجويف بعد ازاله التسوس من الضرسين وركبنا عازل لنضع الحشوة"
       description_ar = "صنعنا تجويف بعد ازاله التسوس من الضرسين وركبنا عازل لنضع الحشوة"
 
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/8ed66497-18da-4aa5-9e89-d96bb628bb92"
+      alt = "Class 3 in anterior teeth and class 2 in lower 4"
+      description = "Class 3 in anterior teeth and class 2 in lower 4"
+      alt_ar = "حشو تجميلي للاسنان الاماميه ف الفك السفلي والفك العلوي"
+      description_ar = "حشو تجميلي للاسنان الاماميه ف الفك السفلي والفك العلوي"
+
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/267548fe-9e26-4425-86d3-f884865aace6"
+      alt = "class 1and 2 in upper 5and6  / and lower 5/6/7"
+      description = "class 1and 2 in upper 5and6  / and lower 5/6/7"
+      alt_ar = "حشو تجميلي للضروس"
+      description_ar = "حشو تجميلي للضروس"
+
   [[params.clinical_cases]]
     enabled = true
-    category = "اندو / كراون"
-    category_ar = "اندو / كراون"
+    category = "اندو"
+    category_ar = "اندو"
     
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/f229524c-bcea-4863-9bc1-ef98c567fb83"
@@ -177,6 +191,27 @@ defaultContentLanguage = "en"
       description = "Endo treatment for upper left 5 and apply fiber post and core. preparation the tooth for PFM crown."
       alt_ar = "حشو عصب للضرس وتركيب دعامة وعوضنا الجزء المفقود من الضرس وركبنا عليه طربوش"
       description_ar = "حشو عصب للضرس وتركيب دعامة وعوضنا الجزء المفقود من الضرس وركبنا عليه طربوش"
+
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/b3defa80-0cf4-4cc3-8504-00f875c9f039"
+      alt = "Endo treatment for lower 7 with tight canal,  final restoration class 2 with deep margin."
+      description = "Endo treatment for lower 7 with tight canal,  final restoration class 2 with deep margin."
+      alt_ar = "حشو عصب للضرس"
+      description_ar = "حشو عصب للضرس"
+
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/220a47cd-3c2d-461d-b8a4-40aeaa355f10"
+      alt = "Endo treatment for lower 6 with 4 canal"
+      description = "Endo treatment for lower 6 with 4 canal"
+      alt_ar = "حشو عصب للضرس بناء علي الأشعة وشكوة المريض"
+      description_ar = "حشو عصب للضرس بناء علي الأشعة وشكوة المريض"
+
+    [[params.clinical_cases.cases]]
+      photo = "https://github.com/user-attachments/assets/7abb2ab2-7478-40fa-abae-abb3bcaeef91"
+      alt = "Endo treatment for upper 6"
+      description = "Endo treatment for upper 6"
+      alt_ar = "حشو عصب للضرس لطفله 11 سنه"
+      description_ar = "حشو عصب للضرس لطفله 11 سنه"
 
   [[params.clinical_cases]]
     enabled = true
@@ -190,65 +225,12 @@ defaultContentLanguage = "en"
       alt_ar = "تقشير اللثه لازاله التصبغات"
       description_ar = "تقشير اللثه لازاله التصبغات"
 
-  [[params.clinical_cases]]
-    enabled = true
-    category = "تشخيص"
-    category_ar = "تشخيص"
-    
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/41711cfc-1cca-4a3c-bd87-f30685e9b8dc"
       alt = "Treatment the gingival hyperplasia (enlargement) by scalpel surgery"
       description = "Treatment the gingival hyperplasia (enlargement) by scalpel surgery"
       alt_ar = "قص لثه"
       description_ar = "قص لثه"
-
-  [[params.clinical_cases]]
-    enabled = true
-    category = "اوبريتيف"
-    category_ar = "اوبريتيف"
-    
-    [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/8ed66497-18da-4aa5-9e89-d96bb628bb92"
-      alt = "Class 3 in anterior teeth and class 2 in lower 4"
-      description = "Class 3 in anterior teeth and class 2 in lower 4"
-      alt_ar = "حشو تجميلي للاسنان الاماميه ف الفك السفلي والفك العلوي"
-      description_ar = "حشو تجميلي للاسنان الاماميه ف الفك السفلي والفك العلوي"
-
-  [[params.clinical_cases]]
-    enabled = true
-    category = "اندو"
-    category_ar = "اندو"
-    
-    [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/b3defa80-0cf4-4cc3-8504-00f875c9f039"
-      alt = "Endo treatment for lower 7 with tight canal,  final restoration class 2 with deep margin."
-      description = "Endo treatment for lower 7 with tight canal,  final restoration class 2 with deep margin."
-      alt_ar = "حشو عصب للضرس"
-      description_ar = "حشو عصب للضرس"
-
-  [[params.clinical_cases]]
-    enabled = true
-    category = "اندو"
-    category_ar = "اندو"
-    
-    [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/220a47cd-3c2d-461d-b8a4-40aeaa355f10"
-      alt = "Endo treatment for lower 6 with 4 canal"
-      description = "Endo treatment for lower 6 with 4 canal"
-      alt_ar = "حشو عصب للضرس بناء علي الأشعة وشكوة المريض"
-      description_ar = "حشو عصب للضرس بناء علي الأشعة وشكوة المريض"
-
-  [[params.clinical_cases]]
-    enabled = true
-    category = "اندو"
-    category_ar = "اندو"
-    
-    [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/7abb2ab2-7478-40fa-abae-abb3bcaeef91"
-      alt = "Endo treatment for upper 6"
-      description = "Endo treatment for upper 6"
-      alt_ar = "حشو عصب للضرس لطفله 11 سنه"
-      description_ar = "حشو عصب للضرس لطفله 11 سنه"
 
   [[params.clinical_cases]]
     enabled = true
@@ -285,18 +267,6 @@ defaultContentLanguage = "en"
       description = "surgical extraction for remaining roots"
       alt_ar = "خلع جراحي للجدور"
       description_ar = "خلع جراحي للجدور"
-
-  [[params.clinical_cases]]
-    enabled = true
-    category = "اوبريتيف"
-    category_ar = "اوبريتيف"
-    
-    [[params.clinical_cases.cases]]
-      photo = "https://github.com/user-attachments/assets/267548fe-9e26-4425-86d3-f884865aace6"
-      alt = "class 1and 2 in upper 5and6  / and lower 5/6/7"
-      description = "class 1and 2 in upper 5and6  / and lower 5/6/7"
-      alt_ar = "حشو تجميلي للضروس"
-      description_ar = "حشو تجميلي للضروس"
       
   # Contact Section
   [params.contact]
