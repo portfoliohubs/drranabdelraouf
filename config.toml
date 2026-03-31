@@ -259,7 +259,7 @@ defaultContentLanguage = "en"
   [[params.clinical_cases]]
     enabled = true
     category = "surgery"
-    category_ar = "surgery"
+    category_ar = "خلع"
     
     [[params.clinical_cases.cases]]
       photo = "https://github.com/user-attachments/assets/035b3fa2-0319-4270-9971-2a3996b9edf0"
